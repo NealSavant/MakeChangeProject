@@ -6,15 +6,21 @@ Program prompts the user to enter the item price, and the amount paid. The progr
 
 ### Concepts
 Class Objects
+
 Field Variables
+
 Double & Int Parsing
 
 ### Technologies Used
 
 java.text.DecimalFormat
+
 Scanner
+
 Java
+
 Eclipse
+
 git
 
 
@@ -28,3 +34,5 @@ Keeping track of variables and how they are implemented into algorithms.
 ## Code Demo
 
 ![Example output](<https://user-images.githubusercontent.com/55298338/68981410-7ff37b80-07c0-11ea-9cac-c2b941b81a39.png>)
+
+![Example Error Message](<https://user-images.githubusercontent.com/55298338/68981494-d365c980-07c0-11ea-9ab3-b3cd974eacef.png>)
