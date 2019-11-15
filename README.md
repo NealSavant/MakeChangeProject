@@ -23,3 +23,8 @@ git
 Rounding decimals properly, my solution was to convert double->String->double and then ->int. Not the most elegant, but functional on smaller scale!
 
 Keeping track of variables and how they are implemented into algorithms.
+
+
+## Code Demo
+
+![Example output](<https://user-images.githubusercontent.com/55298338/68981410-7ff37b80-07c0-11ea-9cac-c2b941b81a39.png>)
