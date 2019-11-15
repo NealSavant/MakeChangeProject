@@ -1,6 +1,6 @@
 # Cash Register Simulator
 
-###Overview
+### Overview
 
 
 ### Concepts
